@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map AmperkaStepper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AmperkaStepper 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setSpeed		KEYWORD2
+step 			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WAVE_DRIVE	LITERAL1
+FULL_STEP	LITERAL1
+HALF_STEP	LITERAL1
